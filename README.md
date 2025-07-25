@@ -1,4 +1,5 @@
-Project Name: DualScape
+<h1>Project Name: DualScape<h1></h1>
+<hr>
 Project Description:
 DualScape is a 2D computer graphics project developed using OpenGL. It presents two contrasting visual environments: a bustling city scene and a peaceful village scene. The user can interactively switch between these two scenes using keyboard inputs.
 
